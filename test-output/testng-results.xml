@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11379" started-at="2018-08-11T10:40:29Z" finished-at="2018-08-11T10:40:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11379" started-at="2018-08-11T10:40:29Z" finished-at="2018-08-11T10:40:40Z">
+      <class name="testcase.TestBookingCreation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcase.TestBookingCreation@bbfa04]" name="setUp" is-config="true" duration-ms="16773" started-at="2018-08-11T11:40:12Z" finished-at="2018-08-11T11:40:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateBookingDeleted()[pri:3, instance:testcase.TestBookingCreation@bbfa04]" name="validateBookingDeleted" duration-ms="11329" started-at="2018-08-11T11:40:29Z" finished-at="2018-08-11T11:40:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBookingDeleted -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcase.TestBookingCreation@bbfa04]" name="tearDown" is-config="true" duration-ms="1205" started-at="2018-08-11T11:40:41Z" finished-at="2018-08-11T11:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestBookingCreation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
